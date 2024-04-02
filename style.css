@@ -1,0 +1,38 @@
+p {
+  color: #145;
+  font-size: 18px;
+}
+
+h1 {
+   color: aliceblue;
+   font-sixe: 30px;
+  text-align: center;
+}
+
+.red {
+     color: red;
+}
+
+#blue {
+      color: blue;
+}
+
+main>section>h4 {
+                color: green;
+}
+
+body {
+  background-color: darkkhaki;
+}
+
+img {
+  padding-left: 400px
+}
+
+h3 {
+  color: gold
+}
+
+h4{
+  color: oldlace
+}
